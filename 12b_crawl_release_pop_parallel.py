@@ -1,6 +1,6 @@
 import discogs_client, time, gzip, sys, requests
 import pandas as pd
-from lxml import etree
+# from lxml import etree
 
 
 # client = discogs_client.Client(
